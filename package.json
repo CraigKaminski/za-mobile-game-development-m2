@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "phaser-ce": "^2.8.8"
+    "phaser-ce": "^2.9.4"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.17",
